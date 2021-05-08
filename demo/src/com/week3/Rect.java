@@ -17,6 +17,7 @@ public class Rect {
 		h = sc.nextInt();
 		
 		//return;
+		sc.close();
 	}
 		
 	public int area() {
